@@ -6,6 +6,7 @@ Overview
 ========
 
 You'll need to install yeoman [http://yeoman.io/]
+You might need to do a bower update [http://bower.io/] inside fest-web
 
 Run the web solution by cd'ing to the fest-web folder and running 'grunt serve'
 
